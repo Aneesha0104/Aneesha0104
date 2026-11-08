@@ -12,7 +12,7 @@
     </a>
   </div>
   
-  <p>AI and Data Science enthusiast with a passion for front-end development.</p>
+  <p>AI and Data Science enthusiast.</p>
 </div>
 
 
